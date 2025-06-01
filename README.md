@@ -1,5 +1,5 @@
 # 🎓 AI-Powered Quiz Preparation Hub  
-*Curated by Groq | Structured by [Your Name]*
+*Curated by Groq | Structured by [Hasnain Ali]*
 
 Welcome to the **AI Quiz Preparation Repository** – a collection of curated quizzes designed to reinforce your knowledge in cutting-edge AI concepts and tools. These quizzes are ideal for self-assessment, group study sessions, and preparing for interviews or certifications. Let's sharpen our skills together! 🚀
 
